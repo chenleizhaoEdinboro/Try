@@ -1,0 +1,15 @@
+﻿the crosswordTester is the driver program.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Jan 10 00:05:57 2016 -0500
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   CrosswordTester.java
+#
+
